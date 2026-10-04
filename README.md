@@ -1,1 +1,0 @@
-# Entrega-2-EaD-Plano-e-Matriz-de-Seguran-a-da-API
